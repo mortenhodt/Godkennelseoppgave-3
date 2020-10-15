@@ -59,7 +59,7 @@ class Image extends user{
 let user1 = new user("Morten", "Hansen", "mh@gmail.com", 31-05-1999, "Male")
 let user2 = new user("Carl", "Gabe", "cb@gmail.com", 06-05-2000, "Male")
 
-let user1 = new Interest(Yes, No, No, Yes)
+let user1 = new Interest(Yes, Yes, No, Yes)
 let user2 = new Interest(No, Yes, Yes, Yes)
 
 let user1 = new Match(Female)
